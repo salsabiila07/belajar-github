@@ -35,7 +35,7 @@
 
 ---
 
-### 🌸 Tech Stack  
+### 🌷 Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-ffb6c1?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -51,8 +51,7 @@
 </p>
 
 ---
-
-### 🌷 Favorite Quote  
+  
 ### 🌸 Favorite Quote  
 > “I don’t chase perfection — I create peace.” ✨  
 > “Simplicity is not emptiness, it’s clarity.” 🌷
