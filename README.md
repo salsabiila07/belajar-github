@@ -1,4 +1,4 @@
-<h1 align="center">🌸✨ Hi there, I’m <strong>Haafizhotus Salsabiila</strong> ✨🌸</h1>
+<h1 align="center">🌸✨ Hi there, I'm SALSABIILA</strong> ✨🌸</h1>
 
 <p align="center">
   <em>“Soft code, strong soul.”</em> 💖  
