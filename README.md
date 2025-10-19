@@ -1,28 +1,29 @@
-<!-- 🌸 Soft Pink Aesthetic README with Animated Header -->
+<h1 align="center">🌸✨ Hi there, I'm SALSABIILA</strong> ✨🌸</h1>
 
-<div align="center">
+<p align="center">
+  <em>“Soft code, strong soul.”</em> 💖  
+</p>
 
-  <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=F4ACC7&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Mudrikah+🌷;Designer+%7C+Creative+Soul+%7C+Tea+Lover+🍵;Welcome+to+my+soft+corner+of+the+web+💫" alt="Typing SVG" />
-  </h1>
-
-  <p><em>“Designing with calm colors, quiet thoughts, and meaningful stories.”</em></p>
-</div>
-
----
-
-### 🎀 About Me  
-🌷 A passionate **designer** who finds joy in soft colors, minimal layouts, and cozy aesthetics.  
-💻 When I'm not designing, you’ll find me journaling or experimenting with digital moodboards 🌸  
-🎨 I love turning peaceful thoughts into visuals that speak quietly but deeply 💕  
+<p align="center">
+  🌷 Frontend Developer | 🍵 Matcha & Calm Vibes | 🎀 Aesthetic Creator  
+</p>
 
 ---
 
-### 💡 What I Do  
-✨ Create minimal yet expressive designs that tell stories.  
-💻 Learn about **UI/UX**, **frontend design**, and **branding**.  
-☁️ Explore creative ideas (with tea and lo-fi music 🍵🎧).  
-💫 Believe that beauty blooms in simplicity.  
+### 💫 About Me
+💻 Frontend enthusiast with an eye for soft aesthetics.  
+🌷 I love crafting minimal yet expressive designs.  
+☕ Always learning, always growing, one commit at a time.  
+🎨 Believer that code can be poetry and design can be calm.  
+🌈 “Soft doesn’t mean weak — it means beautifully balanced.”.”  
+---
+
+### 🎀 What I Do  
+💻 Design and code with a pastel twist.  
+🎨 Turn everyday inspiration into cozy, digital visuals.  
+🩷 Mix creativity, simplicity, and a bit of sparkle.  
+☁️ Learn something new every day — gently but consistently.  
+🍰 Because creating should feel as sweet as dessert
 
 ---
 
@@ -52,11 +53,8 @@
 ---
 
 ### 🌷 Favorite Quote  
-> “Soft hearts make the strongest art.” 💕  
-> “Create softly, shine quietly, and let your work speak beautifully.” 🌸  
-
+### 🌸 Favorite Quote  
+> “I don’t chase perfection — I create peace.” ✨  
+> “Simplicity is not emptiness, it’s clarity.” 🌷
 ---
 
-<p align="center">
-  ✨ Made with calm energy and a cup of tea 🍵 by <b>Mudrikah</b> ✨  
-</p>
