@@ -21,7 +21,7 @@
 ### 🎀 What I Do  
 💻 Design and code with a pastel twist.  
 🎨 Turn everyday inspiration into cozy, digital visuals.  
-🩷 Mix creativity, simplicity, and a bit of sparkle.  
+🌈 Mix creativity, simplicity, and a bit of sparkle.  
 ☁️ Learn something new every day — gently but consistently.  
 🍰 Because creating should feel as sweet as dessert
 
