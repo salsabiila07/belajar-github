@@ -27,14 +27,6 @@
 
 ---
 
-### 🧺 My Tools  
-🎨 **Figma** — where my calm ideas come to life.  
-💻 **Canva** — my go-to for quick and pretty visuals.  
-🪞 **Adobe Illustrator / Photoshop** — for extra spark of creativity.  
-🍰 **Notebook & Pen** — because every idea starts softly on paper.  
-
----
-
 ### 🌷 Tech Stack  
 
 <p align="center">
