@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🌷 Frontend Developer | 🍵 Matcha & Calm Vibes | 🎀 Aesthetic Creator  
+  🌷 Turning little ideas | 🍵 Matcha & Calm Vibes | 🎀 Aesthetic Creator  
 </p>
 
 ---
